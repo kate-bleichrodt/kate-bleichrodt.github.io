@@ -55,6 +55,7 @@ nav {
 nav a {
   line-height: 50px;
   height: 100%;
+  top:0px;
   font-size: 15px;
   display: inline-block;
   position: relative;
@@ -121,7 +122,8 @@ body {
 }
 h4 {
   text-align: center;
-  margin: 10px 0 10px;
+  bottom:0px;
+  margin: 0px 0 0px;
   text-align: center;
   font-size: 30px;
   color: #ecf0f1;
