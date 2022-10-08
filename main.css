@@ -47,8 +47,8 @@ nav {
 
   position: relative;
   width: 1000px;
-  height: 70px;
-  background-color: #34495e;
+  height: 60px;
+  background-color: #000000;
   border-radius: 8px;
   font-size: 0;
 }
@@ -95,22 +95,22 @@ nav .start-home, a:nth-child(1):hover~.animation {
 }
 nav .start-about, a:nth-child(2):hover~.animation {
   width: 200px;
-  left: 100px;
+  left: 200px;
   background-color: #FF2400;
 }
 nav .start-blog, a:nth-child(3):hover~.animation {
   width: 200px;
-  left: 210px;
+  left: 400px;
   background-color: #FF2400;
 }
 nav .start-portefolio, a:nth-child(4):hover~.animation {
   width: 200px;
-  left: 310px;
+  left: 600px;
   background-color: #FF2400;
 }
 nav .start-contact, a:nth-child(5):hover~.animation {
   width: 200px;
-  left: 470px;
+  left: 800px;
   background-color: #FF2400;
 }
 
